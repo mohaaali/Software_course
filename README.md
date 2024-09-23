@@ -1,8 +1,8 @@
-## Software_course
-# All My Projects relating to my python Programming Journey
-
+## Software_course - All My Projects relating to my python Programming Journey
 
 ## Helpdesk Ticketing System
+
+
 ## Overview
 
 This project is a Helpdesk Ticketing System built using Django framework. It is designed to manage Helpdesk tickets and allow users to track and resolve issues efficiently. The system supports two user roles: Admin and Regular users, with different permissions for each role.Admin users can perform all CRUD application commands. 
